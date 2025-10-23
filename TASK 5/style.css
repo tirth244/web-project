@@ -19,4 +19,7 @@ html,body{
     width: 250px;
     background-color: white;
     border-radius: 10px;
+    clip-path: polygon(55% 44%, 100% 0, 100% 20%, 0 91%, 41% 52%, 9% 36%, 0% 80%, 0% 20%);
+ 
+
 }
